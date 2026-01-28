@@ -1,16 +1,15 @@
+# Redis / Celery runtime
+celerybeat-schedule*
+dump.rdb
+
+# Local data & outputs
+*.json
+exports/
+logs/
+
 # Virtual env
 venv/
-.env
 
-# Python
+# OS junk
 __pycache__/
 *.pyc
-
-# OS
-.DS_Store
-
-# Selenium
-*.log
-
-# DB (if sqlite)
-*.db
