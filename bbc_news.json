@@ -1,0 +1,207 @@
+{
+    "source": "BBC News",
+    "scraped_at": "2026-01-27T17:12:48.092275",
+    "total_headlines": 50,
+    "headlines": [
+        {
+            "title": "Federal judge in Minnesota orders ICE director to appear in court",
+            "link": "https://www.bbc.com/news/live/c3ve67195gyt"
+        },
+        {
+            "title": "Trump's shadow looms over India-EU trade deal",
+            "link": "https://www.bbc.com/news/articles/c75x9wqwz40o"
+        },
+        {
+            "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
+            "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo"
+        },
+        {
+            "title": "Nipah virus outbreak in India triggers Asia airport screenings",
+            "link": "https://www.bbc.com/news/articles/cd7zp581q5do"
+        },
+        {
+            "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
+            "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo"
+        },
+        {
+            "title": "Coco Gauff calls for more player privacy after racquet smash",
+            "link": "https://www.bbc.com/sport/tennis/articles/c5y27pg54zdo"
+        },
+        {
+            "title": "One Battle After Another leads Bafta nominations",
+            "link": "https://www.bbc.com/news/articles/cwyn2gqwx9ro"
+        },
+        {
+            "title": "Philippines' Duterte fit to face ICC proceedings, judges say",
+            "link": "https://www.bbc.com/news/articles/c0lx2pj84l4o"
+        },
+        {
+            "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
+            "link": "https://www.bbc.com/news/articles/c4gw49gk13xo"
+        },
+        {
+            "title": "Spain plans to give half a million undocumented migrants legal status",
+            "link": "https://www.bbc.com/news/articles/c62n6gw1dp9o"
+        },
+        {
+            "title": "What tracking data and satellites can tell us about the US military build-up in the Gulf",
+            "link": "https://www.bbc.com/news/live/cy8y1ezwxn6t"
+        },
+        {
+            "title": "Watch: Huge landslide in Sicily after Storm Harry",
+            "link": "https://www.bbc.com/news/videos/cql4p6w2gl5o"
+        },
+        {
+            "title": "Rwanda takes legal action against UK over axed migrant deal",
+            "link": "https://www.bbc.com/news/articles/czx32yxnvzro"
+        },
+        {
+            "title": "More to explore",
+            "link": null
+        },
+        {
+            "title": "'It's 2C in our flat': Inside Kyiv apartment as Russia targets power and heating",
+            "link": "https://www.bbc.com/news/videos/crlepd1pkwxo"
+        },
+        {
+            "title": "Travelling with a man I'd known for two days changed my life forever",
+            "link": "https://www.bbc.com/news/articles/cg4enzg27xdo"
+        },
+        {
+            "title": "Can India be a player in the computer chip industry?",
+            "link": "https://www.bbc.com/news/articles/cn40j0772vwo"
+        },
+        {
+            "title": "Baftas 2026: The nominations list in full",
+            "link": "https://www.bbc.com/news/articles/cx2x159715lo"
+        },
+        {
+            "title": "I accused a police officer of rape, but I ended up on trial",
+            "link": "https://www.bbc.com/news/articles/c4gl0r0052po"
+        },
+        {
+            "title": "Most watched",
+            "link": null
+        },
+        {
+            "title": "Watch: Huge landslide in Sicily after Storm Harry",
+            "link": "https://www.bbc.com/news/videos/cql4p6w2gl5o"
+        },
+        {
+            "title": "'It's 2C in our flat': Inside Kyiv apartment as Russia targets power and heating",
+            "link": "https://www.bbc.com/news/videos/crlepd1pkwxo"
+        },
+        {
+            "title": "BBC at protests outside hotel where Trump's immigration chief believed to be staying",
+            "link": "https://www.bbc.com/news/videos/crmlpnjjk28o"
+        },
+        {
+            "title": "Damaged homes and snowy roadways as winter storm hits US",
+            "link": "https://www.bbc.com/news/videos/c1klrkknrdyo"
+        },
+        {
+            "title": "'We're all terrified', Minnesotan tells the BBC in tears",
+            "link": "https://www.bbc.com/news/videos/crkr1g5vnveo"
+        },
+        {
+            "title": "Also in news",
+            "link": null
+        },
+        {
+            "title": "'Crying horse' toys go viral in China ahead of Lunar New Year",
+            "link": "https://www.bbc.com/news/articles/c70l7zndy3jo"
+        },
+        {
+            "title": "Arctic Monkeys drummer doesn't rule out new music after rumours",
+            "link": "https://www.bbc.com/news/articles/cg5gpyjqq30o"
+        },
+        {
+            "title": "Legal action over 'unfair' Steam game store prices given go ahead",
+            "link": "https://www.bbc.com/news/articles/cx2g1md0l23o"
+        },
+        {
+            "title": "Nipah virus outbreak in India triggers Asia airport screenings",
+            "link": "https://www.bbc.com/news/articles/cd7zp581q5do"
+        },
+        {
+            "title": "Trump raises US tariffs on South Korea imports to 25%",
+            "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o"
+        },
+        {
+            "title": "Most read",
+            "link": null
+        },
+        {
+            "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
+            "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo"
+        },
+        {
+            "title": "India and EU announce 'mother of all trade deals'",
+            "link": "https://www.bbc.com/news/articles/crrnee01r9jo"
+        },
+        {
+            "title": "Trump's shadow looms over India-EU trade deal",
+            "link": "https://www.bbc.com/news/articles/c75x9wqwz40o"
+        },
+        {
+            "title": "Nipah virus outbreak in India triggers Asia airport screenings",
+            "link": "https://www.bbc.com/news/articles/cd7zp581q5do"
+        },
+        {
+            "title": "Pornhub to restrict access for UK users from February",
+            "link": "https://www.bbc.com/news/articles/czr428rxg57o"
+        },
+        {
+            "title": "Teacher who had sex with two pupils struck off",
+            "link": "https://www.bbc.com/news/articles/c4gw3w9xvwxo"
+        },
+        {
+            "title": "Pubs given support package after business rates backlash",
+            "link": "https://www.bbc.com/news/articles/c78vqj99168o"
+        },
+        {
+            "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
+            "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo"
+        },
+        {
+            "title": "One Battle After Another leads Bafta nominations",
+            "link": "https://www.bbc.com/news/articles/cwyn2gqwx9ro"
+        },
+        {
+            "title": "China has purged its highest-ranked military general. Why?",
+            "link": "https://www.bbc.com/news/articles/c8d0l0g8yz5o"
+        },
+        {
+            "title": "Sport",
+            "link": null
+        },
+        {
+            "title": "Dazzling Root & Brook tons lead England to ODI series win",
+            "link": "https://www.bbc.com/sport/cricket/articles/cdrepyep6rpo"
+        },
+        {
+            "title": "Bayern legend? How Kane is viewed in Germany as contract talks begin",
+            "link": "https://www.bbc.com/sport/football/articles/cjrzpng1e8zo"
+        },
+        {
+            "title": "Spain to host 2030 World Cup final, federation says",
+            "link": "https://www.bbc.com/sport/football/articles/c24g2914g9vo"
+        },
+        {
+            "title": "Gauff calls for more player privacy after racquet smash",
+            "link": "https://www.bbc.com/sport/tennis/articles/c5y27pg54zdo"
+        },
+        {
+            "title": "'Jump on the fun boat' - Arteta appeals to Arsenal fans",
+            "link": "https://www.bbc.com/sport/football/articles/cj3vprzg387o"
+        },
+        {
+            "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
+            "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo"
+        },
+        {
+            "title": "Guardiola apologises to ref Hallam but 'defends' outburst",
+            "link": "https://www.bbc.com/sport/football/articles/ckgy04negdjo"
+        }
+    ]
+}
